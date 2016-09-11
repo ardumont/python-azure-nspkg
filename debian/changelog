@@ -1,0 +1,5 @@
+python-azure-nspkg (1.0.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Antoine R. Dumont (@ardumont) <antoine.romain.dumont@gmail.com>  Sun, 11 Sep 2016 17:30:47 +0200
